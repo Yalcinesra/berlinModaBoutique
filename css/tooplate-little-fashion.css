@@ -338,7 +338,7 @@ strong {
   transition: transform 300ms linear;
 }
 
-.navbar span, h2 span, h4 span {
+.navbar span, h2 span, h4 span , h6 span {
 	color: var(--primary-color);
 }
 
@@ -726,8 +726,8 @@ section {
 }
 
 .section-padding {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 5rem;
+  padding-bottom: 1px;
 }
 
 .featured {
